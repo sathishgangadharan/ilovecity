@@ -1,2 +1,2 @@
 # ilovemycity
-https://kora-ilovemycity.herokuapp.com/
+https://ilovecitymodule2.herokuapp.com/
